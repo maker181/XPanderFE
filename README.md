@@ -1,2 +1,2 @@
 # XPanderFE
-a luna Xpander Fan Edition 
+a luna Xpander Fan Edition for linux user
